@@ -1,2 +1,1 @@
-Hahaha banta
-Hello world
+This is all a test
